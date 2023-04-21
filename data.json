@@ -1,0 +1,2397 @@
+[
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Inwood",
+   "SiteName": "SW West 212th Street & 10th Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Park Slope",
+   "SiteName": "Old Stone House Brooklyn"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Norwood",
+   "SiteName": "NE Hull Avenue & East 207th Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (South)",
+   "SiteName": "SE East 112th Street & Park Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "Astoria Pug: Broadway"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East New York (North)",
+   "SiteName": "East New York Farms: St. John Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NE Lewis Avenue & Green Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "SE Rochester Avenue & Park Place"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "SW Central Avenue & Noll Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "Battery Park City Authority Rockefeller Park"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NW St. Nicholas Avenue & Menahan Street"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Grasmere-Arrochar-South Beach-Dongan Hills",
+   "SiteName": "South Beach"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "West Farms",
+   "SiteName": "Drew Gardens"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "SW Patchen Avenue & Macdonough Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "NE Flatbush Avenue & Prospect Place"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Castle Hill-Unionport",
+   "SiteName": "SW Pugsley Avenue & Watson Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Old Astoria-Hallets Point",
+   "SiteName": "SW 8th Street & 27th Ave"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NE Knickerbocker Avenue & Cooper Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (North)",
+   "SiteName": "NE Wadsworth Avenue & West 182nd Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "NW Grand Avenue & St. Marks Avenue"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Port Richmond",
+   "SiteName": "*CLOSED FOR THE SEASON* West Brighton"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Midtown-Turtle Bay",
+   "SiteName": "58th Street Library Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Old Astoria-Hallets Point",
+   "SiteName": "NE 21st Street & 31st Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NW Central Avenue & Hart Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "Carver Community Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hamilton Heights-Sugar Hill",
+   "SiteName": "Maggie's Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (South)",
+   "SiteName": "Morris-Jumel Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Greenpoint",
+   "SiteName": "Transmitter Park Drop-Off"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "West New Brighton-Silver Lake-Grymes Hill",
+   "SiteName": "Olivet Heavenly Harvest"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (South)",
+   "SiteName": "SE West 118 Street & Lenox Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (South)",
+   "SiteName": "SW St. Nicholas Avenue & West 118 Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Throgs Neck-Schuylerville",
+   "SiteName": "SW \tThrogs Neck Expressway & Randall Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Queensbridge-Ravenswood-Dutch Kills",
+   "SiteName": "Socrates Sculpture Park"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "SmartComposting: Rector & Washington Streets"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Rochester Avenue & Bergen Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (East)-Woodside (North)",
+   "SiteName": "Astoria Pug: Steinway"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Parkchester",
+   "SiteName": "SE Purdy Street & East Tremont Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Carroll Gardens-Cobble Hill-Gowanus-Red Hook",
+   "SiteName": "Red Hook Community Farm"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mount Eden-Claremont (West)",
+   "SiteName": "New Settlement Community Center"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Sunnyside",
+   "SiteName": "45th Street Composters"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bensonhurst",
+   "SiteName": "Bensonhurst"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "South Jamaica",
+   "SiteName": "Paradise Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SE Bedford Avenue & Willoughby Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SW Tompkins Avenue & Lafayette Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NW Albany Avenue & St. Johns Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hamilton Heights-Sugar Hill",
+   "SiteName": "145th St Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Arden Heights-Rossville",
+   "SiteName": "Arden Heights"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Jamaica",
+   "SiteName": "King Manor Museum"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Sunset Park (East)-Borough Park (West)",
+   "SiteName": "Rappaport Playground"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (North)",
+   "SiteName": "SE West 136th Street & Edgecombe Avenue"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Pelham Bay-Country Club-City Island",
+   "SiteName": "NW Parkview Avenue & Middletown Road"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "St. George-New Brighton",
+   "SiteName": "St. George Greenmarket"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mount Eden-Claremont (West)",
+   "SiteName": "NW Sheridan Avenue & Marcy Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "NE East 127th Street & Lexington Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East Flatbush-Erasmus",
+   "SiteName": "Little Haiti Food Scrap Drop-off Site"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "NE Crescent Street & 31st Road"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NW Malcolm X Boulevard & Gates Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NW Howard Avenue & Macdonough Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mott Haven-Port Morris",
+   "SiteName": "Padre Plaza Community Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "SoHo-Little Italy-Hudson Square",
+   "SiteName": "6th Ave & Spring St"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (East)-Woodside (North)",
+   "SiteName": "Moore-Jackson Cemetery/Garden"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Concourse-Concourse Village",
+   "SiteName": "NE Gerard Avenue & East 167th Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Springfield Gardens (South)-Brookville",
+   "SiteName": "Garden of Resilience"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Sunset Park (West)",
+   "SiteName": "Los Colibríes Community Garden"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Kew Gardens",
+   "SiteName": "Kew Gardens Cinemas Park"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "University Heights (South)-Morris Heights",
+   "SiteName": "*CLOSED FOR THE SEASON* Francis Martin Library"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "West Village",
+   "SiteName": "Christopher Park"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Manhattanville-West Harlem",
+   "SiteName": "NW West 126th St & Morningside Ave"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bensonhurst",
+   "SiteName": "18th Avenue at 64th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "Crown Heights Franklin Ave Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (East)-Woodside (North)",
+   "SiteName": "SE 38th Street & 31st Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Central Avenue & Linden Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SE Nostrand Avenue & Hancock Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hell's Kitchen",
+   "SiteName": "10th Avenue and 43rd Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Throgs Neck-Schuylerville",
+   "SiteName": "The Garden at Preston"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Kingston Avenue & St. Johns Place"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Belmont",
+   "SiteName": "NE Bathgate Avenue & East 189th Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Village",
+   "SiteName": "Down to Earth Garden (formerly Children's Garden)"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights",
+   "SiteName": "*CLOSED FOR THE SEASON* Manor Heights"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NE Knickerbocker Avenue & Covert Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "SmartComposting: Maiden Lane & Pearl Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Elmhurst",
+   "SiteName": "Terraza 7"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Crotona Park East",
+   "SiteName": "Bronx River House / Starlight Park"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Chelsea-Hudson Yards",
+   "SiteName": "8th Ave & 24th St"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NW New York Avenue & Lincoln Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "SE Pleasant Avenue & East 116th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NE Knickerbocker Avenue & Linden Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NW Albany Avenue & Bergen Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East Williamsburg",
+   "SiteName": "Sure We Can"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East New York-New Lots",
+   "SiteName": "East New York Farms: UCC Youth Farm"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NE St. Nicholas Avenue & Hart Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Old Astoria-Hallets Point",
+   "SiteName": "SW 31st Avenue & 23rd Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NE Lewis Avenue & Putnam Avenue"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Tremont",
+   "SiteName": "NE East 176th Street & Washington Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "SW Patchen Avenue & Hancock Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Queensbridge-Ravenswood-Dutch Kills",
+   "SiteName": "NE 35th Avenue & 21st Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Madison",
+   "SiteName": "Kings Highway and East 16th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Fort Greene",
+   "SiteName": "Fort Greene Greenmarket"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Upper East Side-Carnegie Hill",
+   "SiteName": "East 96th Street Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NE Bushwick Avenue & Halsey Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "NE Bedford Avenue & Clifton Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Upper West Side-Lincoln Square",
+   "SiteName": "Tucker Square Thursday Greenmarket"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "SE 33rd Street & 31st Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Madison",
+   "SiteName": "Avenue U and East 16th Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mount Hope",
+   "SiteName": "NE East 181st Street & Morris Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "SE 31st Avenue & 35th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "Prospect Heights Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Old Astoria-Hallets Point",
+   "SiteName": "NW 8th Street & Astoria Blvd"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NW Knickerbocker Avenue & Suydam Street"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "New Dorp-Midland Beach",
+   "SiteName": "*CLOSED FOR THE SEASON* Midland Beach"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (South)",
+   "SiteName": "SW Audubon Avenue & West 169th St"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "NW Vanderbilt Avenue & Plaza Street East"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Bedford Park",
+   "SiteName": "Lehman College"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "The Evergreens Cemetery",
+   "SiteName": "Aberdeen Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "NE Washington Avenue & St. Johns Place"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SW Throop Avenue & Halsey Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NE Bushwick Avenue & Himrod Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hell's Kitchen",
+   "SiteName": "Hudson River Park Pier 96 Boathouse at W 55 St"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Tompkinsville-Stapleton-Clifton-Fox Hills",
+   "SiteName": "NW Hill Street & Tompkins Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NW Central Avenue & Troutman Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Upper East Side-Yorkville",
+   "SiteName": "Asphalt Green Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "NE East 130th Street & 5th Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Old Astoria-Hallets Point",
+   "SiteName": "SE 27 Avenue & 1 Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hamilton Heights-Sugar Hill",
+   "SiteName": "SW West 138th Street & Amsterdam Avenue"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Tremont",
+   "SiteName": "Mary Mitchell Center"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Greenpoint",
+   "SiteName": "North Brooklyn Compost"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "NE East 120 Street & Madison Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Bushwick Avenue & Cornelia Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (South)",
+   "SiteName": "NW East 106th Street & Park Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East New York (North)",
+   "SiteName": "East New York Farms: Nehemiah Ten Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SW Tompkins Avenue & Myrtle Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Village",
+   "SiteName": "*CLOSED FOR THE SEASON* La Plaza Cultural Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "SE Lewis Avenue & Hancock Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Flushing-Willets Point",
+   "SiteName": "Queens Botanical Garden Public Food Scrap Drop-Off"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Marine Park-Mill Basin-Bergen Beach",
+   "SiteName": "Genovesi Environmental Study Center"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Jackson Heights",
+   "SiteName": "Jackson Heights Greenmarket"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (North)",
+   "SiteName": "NW West 135 Street & 5th Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "NE Bedford Avenue & Herkimer Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Norwood",
+   "SiteName": "Norwood"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bay Ridge",
+   "SiteName": "4th Avenue Presbyterian Church"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Concourse-Concourse Village",
+   "SiteName": "New Roots Community Farm"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Manhattanville-West Harlem",
+   "SiteName": "St. Mary's Harlem"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (North)",
+   "SiteName": "NW Cabrini Blvd & West 187st Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "South Ozone Park",
+   "SiteName": "Office of Assemblymember Anderson"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "Astoria Pug: Most Precious Blood"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Elmhurst",
+   "SiteName": "St. James Compost"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Port Richmond",
+   "SiteName": "Venture House"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "University Heights (South)-Morris Heights",
+   "SiteName": "SE West Tremont Avenue & University Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "Bowling Green Greenmarket"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Central Avenue & Green Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Williamsburg",
+   "SiteName": "Domino Park"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mott Haven-Port Morris",
+   "SiteName": "Friends of Brook Park Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Brownsville",
+   "SiteName": "Abib Newborn Learning Garden"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Kingsbridge Heights-Van Cortlandt Village",
+   "SiteName": "SW Heath Avenue & West Kingsbridge Road"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Manhattanville-West Harlem",
+   "SiteName": "NW West 133 Street\t& Broadway"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Fordham Heights",
+   "SiteName": "NW Valentine Avenue & East 183rd Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Kingston Avenue & Dean Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "The Battery-Governors Island-Ellis Island-Liberty Island",
+   "SiteName": "Governors Island Soissons Ferry Landing"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Upper West Side (Central)",
+   "SiteName": "West Side Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "Walt L Shamel Community Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "West Village",
+   "SiteName": "Hudson River Park's Pier 51 at Horatio St."
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Central Avenue & Moffat Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Kingston Avenue & Eastern Parkway"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (East)-Woodside (North)",
+   "SiteName": "NW Broadway & 51st Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Carroll Gardens-Cobble Hill-Gowanus-Red Hook",
+   "SiteName": "Carroll Gardens Greenmarket"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "West New Brighton-Silver Lake-Grymes Hill",
+   "SiteName": "Grymes Hill Wagner College"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Highbridge",
+   "SiteName": "Target Bronx Community Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (North)",
+   "SiteName": "NW West 126th Street & Adam Clayton Powell Jr Blvd"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Pelham Bay-Country Club-City Island",
+   "SiteName": "NE City Island Avenue & Winter Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NW Howard Avenue & Putnam Avenue"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Morrisania",
+   "SiteName": "Montefiore"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (North)-Ditmars-Steinway",
+   "SiteName": "Astoria Pug: 41st Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Windsor Terrace-South Slope",
+   "SiteName": "Brooklyn Hope Church"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East Flatbush-Rugby",
+   "SiteName": "Wyckoff Farmhouse Museum"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NW Rogers Avenue & Sterling Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "SmartComposting: John & Williams Streets"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Midtown-Turtle Bay",
+   "SiteName": "Dag Hammarskjold Plaza Greenmarket"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "SE 31st Avenue & 36th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Central Avenue & Covert Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NW Ralph Avenue - Bergen Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "University Heights (North)-Fordham",
+   "SiteName": "New Beginnings Community Garden"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Concourse-Concourse Village",
+   "SiteName": "NW Gerard Avenue & East 150th Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "SmartComposting: Platt & Gold Streets"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Knickerbocker Avenue & Palmetto Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Fordham Heights",
+   "SiteName": "SE Marion Avenue & East 187th Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (North)",
+   "SiteName": "NW West 132 Street & Adam Clayton Powell Jr Blvd"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Lower East Side",
+   "SiteName": "Corlears Hook Park"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Soundview-Clason Point",
+   "SiteName": "NW Seward Avenue & Croes Avenue"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "St. George-New Brighton",
+   "SiteName": "NE Richmond Terrace & Ferry Terminal Viaduct"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "NW 29th Street & 31st Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Sunnyside",
+   "SiteName": "Woodside Sunnyside Composting"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "Rodale Pleasant Park Community Garden"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "NW 31st Avenue & 35th Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Bedford Park",
+   "SiteName": "*CLOSED FOR THE SEASON* James Baldwin Outdoor Learning Center"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "SE 31st Avenue & 29th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NW Malcolm X Boulevard & Putnam Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "SW St. Nicholas Avenue & Stockholm Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East New York-New Lots",
+   "SiteName": "East New York Farms: 400 Montauk Ave Block Association Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NE Bushwick Avenue & Jefferson Street"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights",
+   "SiteName": "Grace Foundation"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (South)",
+   "SiteName": "NW Amsterdam Avenue & West 165th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East Flatbush-Remsen Village",
+   "SiteName": "Howard Garden"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Ridgewood",
+   "SiteName": "Ridgewood"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "NE Underhill Avenue & Eastern Parkway"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Gravesend (South)",
+   "SiteName": "Avenue X at West Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SW Tompkins Avenue & Macon Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Carroll Gardens-Cobble Hill-Gowanus-Red Hook",
+   "SiteName": "Gowanus Salt Lot"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Dyker Heights",
+   "SiteName": "Leif Ericson Park Food Scrap Drop-off Site"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Morningside Heights",
+   "SiteName": "SE Amsterdam Avenue & W 113 Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Corona",
+   "SiteName": "Malcolm X FSDO"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Port Richmond",
+   "SiteName": "NW Innis Street & St Josephs Avenue"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "New Springville-Willowbrook-Bulls Head-Travis",
+   "SiteName": "*CLOSED FOR THE SEASON* Staten Island Mall Greenmarket"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Queensbridge-Ravenswood-Dutch Kills",
+   "SiteName": "SW 24th Street & 34th Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (South)",
+   "SiteName": "NE West 174th Street & Fort Washington Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Long Island City-Hunters Point",
+   "SiteName": "Astoria Pug: Hunter's Point"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Jackson Heights",
+   "SiteName": "Fordham Plaza Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (South)",
+   "SiteName": "Crown Heights"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Riverdale-Spuyten Duyvil",
+   "SiteName": "Riverdale Neighborhood House"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Longwood",
+   "SiteName": "Kelly Street Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "NE Bedford Avenue & Hancock Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Rockaway Beach-Arverne-Edgemere",
+   "SiteName": "*CLOSED FOR THE SEASON* Far Rock Urban Agro-Education Center"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Chelsea-Hudson Yards",
+   "SiteName": "Hudson River Park's Pier 76 at W. 34th St."
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Queensbridge-Ravenswood-Dutch Kills",
+   "SiteName": "Commuter Composting at 21 St-Queensbridge F"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "SW East 118th Street & 1 Avenue"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Soundview-Bruckner-Bronx River",
+   "SiteName": "SW Beach Avenue & East 172nd Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bay Ridge",
+   "SiteName": "Bay Ridge"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Concourse-Concourse Village",
+   "SiteName": "BronxWorks Carolyn McLaughlin Community Center"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Carroll Gardens-Cobble Hill-Gowanus-Red Hook",
+   "SiteName": "Christ Church Community Compost"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Springfield Gardens (North)-Rochdale Village",
+   "SiteName": "Brewer Food Scrap Drop-off Site"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Long Island City-Hunters Point",
+   "SiteName": "Smiling Hogshead Ranch"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "West Village",
+   "SiteName": "Hudson River Park's Pier 40 at W. Houston St."
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SW Nostrand Avenue & Greene Avenue"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Westchester Square",
+   "SiteName": "NW Zerega Avenue & Waterbury Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Old Astoria-Hallets Point",
+   "SiteName": "SW 21st Street & 30th Drive"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Midtown South-Flatiron-Union Square",
+   "SiteName": "Union Square Greenmarket"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Glendale",
+   "SiteName": "Glendale Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Kensington",
+   "SiteName": "Kensington Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "College Point",
+   "SiteName": "College Point FSDO"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Carroll Gardens-Cobble Hill-Gowanus-Red Hook",
+   "SiteName": "Big Reuse Warehouse"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Norwood",
+   "SiteName": "Keepers House Edible Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (North)",
+   "SiteName": "NW West 141st Street & Fredrick Douglas Blvd"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "St. George-New Brighton",
+   "SiteName": "SE Stuyvesant Place & Schuyler Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Chelsea-Hudson Yards",
+   "SiteName": "Hudson River Park's Chelsea Waterside Park at W. 23rd St."
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "Uptown Grand Central Fresh Food Box"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Pelham Bay-Country Club-City Island",
+   "SiteName": "SW Jarvis Avenue & Roberts Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "SE Classon Avenue & Eastern Parkway"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Queensbridge-Ravenswood-Dutch Kills",
+   "SiteName": "NW Queens Plaza North & 21st Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Forest Hills",
+   "SiteName": "Commonpoint Queens in partnership with The Forest Hills Green Team"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Tribeca-Civic Center",
+   "SiteName": "SmartComposting: Broadway & Park Place"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NW New York Avenue & Dean Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NW St. Nicholas Avenue & Himrod Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mount Eden-Claremont (West)",
+   "SiteName": "SE Eastburn Avenue & East 174th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NE Lewis Avenue & Bainbridge Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Tremont",
+   "SiteName": "La Familia Verde Farmer's Market"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Jackson Heights",
+   "SiteName": "CLOSED FOR THE SEASON: Farm Spot CSA"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Highbridge",
+   "SiteName": "NE West 166th St & Dr. Martin Luther King Jr Boulevard"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Park",
+   "SiteName": "Grand Army Plaza Greenmarket"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Soundview-Clason Point",
+   "SiteName": "NE White Plains Road & Randall Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Flatbush (West)-Ditmas Park-Parkville",
+   "SiteName": "Q Gardens"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NE Bushwick Avenue & Palmetto Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (North)",
+   "SiteName": "NW Audubon Avenue & West 192nd Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Windsor Terrace-South Slope",
+   "SiteName": "*CLOSED FOR THE SEASON* East 4th Street Community Garden"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Belmont",
+   "SiteName": "SE East 183 Street & Cambreleng Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "Pleasant Village Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "Wilson Ave Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Brownsville",
+   "SiteName": "*CLOSED FOR THE SEASON* Iso Student Farm"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hell's Kitchen",
+   "SiteName": "Hudson River Park's Pier 84 at W. 44th St."
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "University Heights (North)-Fordham",
+   "SiteName": "NW Loring Place North & Hall of Fame Terrace"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Tompkinsville-Stapleton-Clifton-Fox Hills",
+   "SiteName": "Staten Island Urban Center"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NE Bushwick Avenue & Suydam Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "SW Schenectady Avenue & Lincoln Place"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Sunnyside Yards (South)",
+   "SiteName": "Sunnyside Greenmarket"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Morningside Heights",
+   "SiteName": "Columbia Sunday Greenmarket"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Canarsie",
+   "SiteName": "Rockaway Parkway"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "SE Throop Avenue & Hart Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Inwood",
+   "SiteName": "SE Broadway & Academy Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Irving Avenue & Weirfield Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "SmartComposting: One New York Plaza"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (South)",
+   "SiteName": "SW West 112 Street\t& 5th Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NW Malcolm X Boulevard & Lafayette Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (South)",
+   "SiteName": "SE East 106th Street & 3rd Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East New York (North)",
+   "SiteName": "East New York Farms: Ashford Learning Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Franklin Avenue & Prospect Place"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (North)-Ditmars-Steinway",
+   "SiteName": "Astoria Pug: Ditmars"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NE Knickerbocker Avenue & Putnam Avenue"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "University Heights (South)-Morris Heights",
+   "SiteName": "NE West Burnside Avenue & Sedgewick"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Kingsbridge Heights-Van Cortlandt Village",
+   "SiteName": "Kingsbridge Heights Community Center"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "SW St. Nicholas Avenue & Willoughby Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "BK Rot"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (East)-Woodside (North)",
+   "SiteName": "SW 31st Avenue & 51st Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mott Haven-Port Morris",
+   "SiteName": "Mott Haven Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Cypress Hills",
+   "SiteName": "Cypress Hills"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Kingston Avenue & Park Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "The Battery-Governors Island-Ellis Island-Liberty Island",
+   "SiteName": "Governors Island Zero Waste Stations"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "SE 32nd Street & 31st Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Brighton Beach",
+   "SiteName": "Brighton Beach Avenue at Coney Island Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Lefferts Gardens-Wingate",
+   "SiteName": "Maple Street Community Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Upper West Side-Manhattan Valley",
+   "SiteName": "97th Street Greenmarket"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NE Bushwick Avenue & Vanderveer Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (North)",
+   "SiteName": "Abyssinian Tot Lot"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "NW Classon Avenue & Park Place"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "NE 31st Avenue & 37th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SW Tompkins Avenue & Putnam Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Central Avenue & Hancock Street"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Westerleigh-Castleton Corners",
+   "SiteName": "NE Victory Blvd & Slosson Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (South)",
+   "SiteName": "SW Amsterdam Avenue & West 160th Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hamilton Heights-Sugar Hill",
+   "SiteName": "SW West 147th Street & Amsterdam Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Morningside Heights",
+   "SiteName": "SW West 112 Street & Broadway"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "SW Knickerbocker Avenue & Jefferson Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Belmont",
+   "SiteName": "NW East 183rd Street & Washington Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Corona",
+   "SiteName": "Corona"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Annadale-Huguenot-Prince's Bay-Woodrow",
+   "SiteName": "Pleasant Plains"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "SmartComposting: Wall & Pearl Streets"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Manhattanville-West Harlem",
+   "SiteName": "NE Convent Avenue & W 130 Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "East Elmhurst",
+   "SiteName": "*CLOSED FOR THE SEASON* McIntosh Neighborhood Association"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "SE Pleasant Avenue & East 120 Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Murray Hill-Kips Bay",
+   "SiteName": "St. Vartan Park"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW St. Nicholas Avenue & Linden Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Flatbush",
+   "SiteName": "Flatbush Junction Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NW Malcolm X Boulevard & Bainbridge Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "SE Crescent Street & 30th Drive"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "Bed Stuy Fresh Food Box"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Lower East Side",
+   "SiteName": "Grand Street & Clinton Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Melrose",
+   "SiteName": "*CLOSED FOR THE SEASON* Lincoln Hospital Greenmarket"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Queensbridge-Ravenswood-Dutch Kills",
+   "SiteName": "SW 40th Avenue & 21st Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Rego Park",
+   "SiteName": "The Compost Collective"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Kingsbridge-Marble Hill",
+   "SiteName": "CLOSED FOR THE SEASON: Mediator's Composting Initiative"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "NE Bedford Avenue & Madison Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Rockaway Beach-Arverne-Edgemere",
+   "SiteName": "Edgemere Farm"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Midtown South-Flatiron-Union Square",
+   "SiteName": "Madison Square Park Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Upper East Side-Lenox Hill-Roosevelt Island",
+   "SiteName": "Roosevelt Island Farmers Market"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bensonhurst",
+   "SiteName": "Bay Parkway at 66th Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Fordham Heights",
+   "SiteName": "SE Field Place & Morris Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Rogers Avenue & Prospect Place"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "NW Vanderbilt Avenue & Prospect Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Village",
+   "SiteName": "1st Ave and 1st St"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "NE Underhill Avenue & Park Place"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Forest Hills",
+   "SiteName": "Forest Hills Greenmarket"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Norwood",
+   "SiteName": "SE Kings College Place & Gun Hill Road"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Downtown Brooklyn-DUMBO-Boerum Hill",
+   "SiteName": "Vinegar Hill Community Garden"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Soundview-Bruckner-Bronx River",
+   "SiteName": "NE Taylor Avenue & Archer Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mount Eden-Claremont (West)",
+   "SiteName": "SE East 171st Street & Walton Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Schenectady Avenue & Prospect Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hamilton Heights-Sugar Hill",
+   "SiteName": "Jenny's Garden"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Snug Harbor",
+   "SiteName": "Compost Demonstration Site at Snug Harbor Cultural Center & Botanical Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "NW East 109th Street & 2nd Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "The Battery-Governors Island-Ellis Island-Liberty Island",
+   "SiteName": "*CLOSED FOR THE SEASON* Governors Island Compost Learning Center"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "SE 31st Avenue & Crescent Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "1100 Bergen Street Community Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "SmartComposting: Bowling Green (South)"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Ocean Hill",
+   "SiteName": "NW Howard Avenue & Herkimer Street"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Mariner's Harbor-Arlington-Graniteville",
+   "SiteName": "SW Maple Parkway & Walloon Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NW New York Avenue & Prospect Place"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (East)-Woodside (North)",
+   "SiteName": "Astoria Pug: Newtown"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "St. George-New Brighton",
+   "SiteName": "NE Layton Avenue & Jersey Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Bedford Park",
+   "SiteName": "NW Bainbridge Avenue & East Mosholu Parkway S"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Parkchester",
+   "SiteName": "Parkchester"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (South)",
+   "SiteName": "NW West 114 Street & Adam Clayton Powell Jr Blvd"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "SE Classon Avenue & Bergen Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Chelsea-Hudson Yards",
+   "SiteName": "Hudson River Park Pier 66 at W 26 St"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Queensbridge-Ravenswood-Dutch Kills",
+   "SiteName": "SE 40th Avenue & 10th Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Long Island City-Hunters Point",
+   "SiteName": "The Connected Chef"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "EL Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Tribeca-Civic Center",
+   "SiteName": "Hudson River Park's Pier 25 at N. Moore St."
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "Moffat Street Community Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hell's Kitchen",
+   "SiteName": "Mathews-Palmer Park"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East New York-New Lots",
+   "SiteName": "Rockaway Avenue Community Compost Site"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Ocean Hill",
+   "SiteName": "Phoenix Community Garden"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "West Farms",
+   "SiteName": "NW Daly Avenue & Elsmere Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Williamsburg",
+   "SiteName": "McCarren Park Greenmarket"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Bushwick Avenue & Menahan Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East New York (North)",
+   "SiteName": "East New York Farms: Concerned Residents of Barbey Street Community Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (South)",
+   "SiteName": "SE East 100th Street & 1st Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "SE Schenectady Avenue & Sterling Place"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Woodside",
+   "SiteName": "Rusty Wheelbarrow Farm"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NE Throop Avenue & Madison Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Douglaston-Little Neck",
+   "SiteName": "St. Anastasia Roman Catholic Church"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Kensington",
+   "SiteName": "Albemarle Road and McDonald Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Jackson Heights",
+   "SiteName": "Closed for the Season: JH Scraps"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NW Patchen Avenue & Fulton Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (North)",
+   "SiteName": "SE West 151 Street & Macombs Place"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mount Eden-Claremont (West)",
+   "SiteName": "New Settlement- 170 Farm Stand"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Throgs Neck-Schuylerville",
+   "SiteName": "NE Lafayette Avenue & Cross Bronx Expressway"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Flatbush (West)-Ditmas Park-Parkville",
+   "SiteName": "Cortelyou Greenmarket"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Coney Island-Sea Gate",
+   "SiteName": "PS 90 Coney Island"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Soundview-Clason Point",
+   "SiteName": "NE Taylor Avenue & Lafayette Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (North)-Ditmars-Steinway",
+   "SiteName": "Astoria Pug: Hoyt"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Windsor Terrace-South Slope",
+   "SiteName": "Prospect Farm"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "South Jamaica",
+   "SiteName": "Discovery Community Garden"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "West New Brighton-Silver Lake-Grymes Hill",
+   "SiteName": "SW Campbell Avenue & Henderson Avenue"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "University Heights (North)-Fordham",
+   "SiteName": "SW East 193rd Street & Grand Concourse"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SW Nostrand Avenue & Putnam Avenue"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Old Astoria-Hallets Point",
+   "SiteName": "SE 31st Avenue & 14th Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Westchester Square",
+   "SiteName": "NE Glebe Avenue & Zerega Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "CLOSED FOR THE SEASON: Lydia's Magic Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "SW St. Nicholas Avenue & Greene Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NE Bushwick Avenue & Dekalb Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Morningside Heights",
+   "SiteName": "SE West 123 Street & Amsterdam Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "SW Irving Avenue & Schaefer Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "SmartComposting: Zuccotti Park"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Inwood Hill Park",
+   "SiteName": "Inwood Greenmarket"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (South)",
+   "SiteName": "SW West 122 Street & Malcolm X Blvd"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NW Lewis Avenue & Hart Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Tremont",
+   "SiteName": "SW Bathgate Avenue & East 182 Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Knickerbocker Avenue & Hancock Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "West Village",
+   "SiteName": "Hudson River Park Pier 46 at Charles St"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (East)-Woodside (North)",
+   "SiteName": "SE 31st Avenue & 49th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "SW Tompkins Avenue & Quincy Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Chelsea-Hudson Yards",
+   "SiteName": "Hudson River Park's 14th Street Park at 10th Ave."
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "SW Rogers Avenue & Lincoln Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Morningside Heights",
+   "SiteName": "SW West 114th Street & Amsterdam Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "SW Vanderbilt Avenue & Dean Street"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Annadale-Huguenot-Prince's Bay-Woodrow",
+   "SiteName": "Rossville"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Morrisania",
+   "SiteName": "Morrisania"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Village",
+   "SiteName": "Tompkins Square Greenmarket"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Queensbridge-Ravenswood-Dutch Kills",
+   "SiteName": "NE 35th Avenue & 12th Street"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Westerleigh-Castleton Corners",
+   "SiteName": "NW Houston Street & Willowbrook Road"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Morris Park",
+   "SiteName": "Albert Einstein College of Medicine (AECOM) Garden Club"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Park",
+   "SiteName": "Nurture BK"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Concourse-Concourse Village",
+   "SiteName": "NW Morris Avenue & East 163rd Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mount Eden-Claremont (West)",
+   "SiteName": "SE Townsend Avenue & East 174th Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Bellerose",
+   "SiteName": "Queens County Farm Museum"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Sunset Park (Central)",
+   "SiteName": "Sunset Park FSDO"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (North)",
+   "SiteName": "SE Sickles Street & Nagle Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (North)",
+   "SiteName": "SW East 123rd Street & 2nd Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "SW Albany Avenue & Herkimer Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "SE Knickerbocker Avenue & Menahan Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Rogers Avenue & Dean Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East New York-New Lots",
+   "SiteName": "East New York Farms: Success Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NW Central Avenue & Stanhope Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (West)",
+   "SiteName": "NE Knickerbocker Avenue & Starr Street"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "Rosebank-Shore Acres-Park Hill",
+   "SiteName": "NE Vermont Avenue & Hylan Blvd"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (West)",
+   "SiteName": "NE Bedford Avenue & Quincy Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "NW Crescent Street & 30th Drive"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "PS 17 Wellness Council & Q300 Green Team"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "SE Rochester Avenue & St. Johns Place"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (South)",
+   "SiteName": "NE Amsterdam Avenue & West 155th Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "NW Howard Avenue & Marion Street"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Belmont",
+   "SiteName": "SW East 187th Street & Southern Boulevard"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Melrose",
+   "SiteName": "Rainbow Garden of Health"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hamilton Heights-Sugar Hill",
+   "SiteName": "NW Amsterdam Avenue & W 152 Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "SmartComposting: Cedar & William Streets"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Brighton Beach",
+   "SiteName": "Brighton Beach Avenue and Ocean Parkway"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "University Heights (South)-Morris Heights",
+   "SiteName": "CLOSED 3/30/23 Community Access - Davidson Ave"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "West Village",
+   "SiteName": "Abingdon Square Greenmarket"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bensonhurst",
+   "SiteName": "Bay Parkway at 86th Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Harlem (North)",
+   "SiteName": "134th Street Farm"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Tribeca-Civic Center",
+   "SiteName": "Tribeca Greenmarket"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Schenectady Avenue & Dean Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Manhattanville-West Harlem",
+   "SiteName": "NE Corner Amsterdam Avenue & W 133 Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bedford-Stuyvesant (East)",
+   "SiteName": "SW Patchen Avenue & Monroe Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Chinatown-Two Bridges",
+   "SiteName": "East Broadway & Rutgers Street"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "NW 31st Street & Broadway"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Kew Gardens",
+   "SiteName": "Kew Gardens Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Staten Island",
+   "NTAName": "St. George-New Brighton",
+   "SiteName": "H.E.A.L.T.H for Youths Skyline Community Garden"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "East Elmhurst",
+   "SiteName": "East Elmhurst Community School"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Downtown Brooklyn-DUMBO-Boerum Hill",
+   "SiteName": "Brooklyn Borough Hall Saturday Greenmarket"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Norwood",
+   "SiteName": "NE East Mosholu Parkway North & Van Cortlandt Avenue"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Kingsbridge-Marble Hill",
+   "SiteName": "Spuyten Duyvil PreSchool"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Soundview-Bruckner-Bronx River",
+   "SiteName": "NW Bruckner Boulevard & Evergreen Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Washington Heights (North)",
+   "SiteName": "CLOSED 3/29/23: 181st Street Food Scrap Drop-off"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Hamilton Heights-Sugar Hill",
+   "SiteName": "Frank White Memorial Garden"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "East Harlem (South)",
+   "SiteName": "Maggie's Magic Garden"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Mount Hope",
+   "SiteName": "SW Mount Hope Place & Walton Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East Flatbush-Erasmus",
+   "SiteName": "Rogers / Tilden / Veronica Place Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East Williamsburg",
+   "SiteName": "Farm To People"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NW Central Avenue & Madison Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "NE Franklin Avenue & Lincoln Place"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Crown Heights (North)",
+   "SiteName": "Imani Community Garden"
+ },
+ {
+   "Borough": "Queens",
+   "NTAName": "Astoria (Central)",
+   "SiteName": "SE 31st Street & 31st Avenue"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Financial District-Battery Park City",
+   "SiteName": "Battery Park City Authority Headquarters"
+ },
+ {
+   "Borough": "Bronx",
+   "NTAName": "Tremont",
+   "SiteName": "SW East 179th Street & Clinton Avenue"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Prospect Heights",
+   "SiteName": "NE Underhill Avenue & Bergen Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "NE Knickerbocker Avenue & Halsey Street"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "SE Bushwick Avenue & Chauncey Street"
+ },
+ {
+   "Borough": "Manhattan",
+   "NTAName": "Upper West Side (Central)",
+   "SiteName": "79th St. Greenmarket"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Ocean Hill",
+   "SiteName": "Farmers Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "Bushwick (East)",
+   "SiteName": "*CLOSED FOR THE SEASON* Bushwick Grows! Community Garden"
+ },
+ {
+   "Borough": "Brooklyn",
+   "NTAName": "East New York (North)",
+   "SiteName": "East New York Farms: Poppa & Momma Jones Historical Garden"
+ }
+]
