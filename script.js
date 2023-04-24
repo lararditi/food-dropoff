@@ -1,12 +1,15 @@
 // Function to render your items
 function myOverFunction() {
-  document.getElementById("deneme1").hidden=false;
+  document.getElementById("all").hidden=false;
 }
 function myDownFunction() {
-  document.getElementById("deneme1").hidden=true;
+  document.getElementById("all").hidden=true;
 }
 
-
+function Grid (){
+  var Item = document.getElementByIdyId("all");
+  Item.style.display = "grid";
+}
 
 function renderItems(grid) {
   // The `ul` where the items will be inserted
@@ -47,23 +50,12 @@ function renderItems(grid) {
      BronxTrue.push(item);
     }
   
-  //  dotContainer.addEventListener('mouseover', () => {
-  //   var secilenID = document.getElementById("deneme1");
-  //   secilenID.style.display = "none";
-  // })
-  // dotContainer.addEventListener('mouseout', () => {
-  //   var secilenID = document.getElementById("deneme1");
-  //   secilenID.style.display = "none";
-  // })
-
- 
-
 
     // “template literals”
     const itemDetails = `
 				<div  onmouseover="myOverFunction()" onmouseout="myDownFunction()" class="data-container ${item.Borough}">
 					<div class="data-point" style=""></div>
-						<h2 id="deneme1">${item.Borough}</h2>
+						<h2 id="all">${item.Borough}</h2>
             <p><em>NTA Name: ${item.NTAName}</p>
 						<p><em>Site Name: ${item.SiteName}</p>
 						

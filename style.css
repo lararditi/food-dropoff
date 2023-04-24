@@ -14,17 +14,13 @@ h1, h2 {
 
 #grid {
 	display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(186px, 1fr));
-	grid-template-columns: repeat(auto-fill, minmax(186px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax (15rem, 1fr));
+	grid-template-rows: repeat(auto-fit, minmax (15rem, 1fr));
 
 }
 
-
-
 .Manhattan{
-	/* display: block; */
-	grid-column: span 1;
-	grid-row: span 1;
+
 	width: fit-content;
 	height: fit-content;
 background-color: grey;
@@ -36,24 +32,21 @@ background-color: grey;
 
 
   .Bronx{
-	display: block;
-	grid-column: span 1;
+
 	width: fit-content;
 	height: fit-content;
 	background-color: darkgrey;
   }
 
   .Queens{
-	display: block;
-	grid-column: span 1;
+
 	width: fit-content;
 	height: fit-content;
 	background-color: darkgrey;
   } 
 
   .Brooklyn{
-	display: block;
-	grid-column: span 1;
+
 	width: fit-content;
 	height: fit-content;
 	background-color: darkgrey;
