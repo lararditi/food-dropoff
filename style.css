@@ -10,64 +10,52 @@ h1, h2 {
 	text-align:center;
 }
 
+
+
 #grid {
-  display: grid; 
-  grid-template-columns: (35, 1 fr);
-  grid-template-rows: (35, 1 fr);
+	display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(186px, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(186px, 1fr));
+
 }
 
+
+
 .Manhattan{
-	grid-column-start: 3;
-	grid-column-end: 7;
-	grid-row-start: 1;
-	grid-row-end: 35;
+	/* display: block; */
+	grid-column: span 1;
+	grid-row: span 1;
+	width: fit-content;
+	height: fit-content;
+background-color: grey;
   } 
 
   /* .Manhattan:hover {
 	background-color: rebeccapurple;
   } */
 
-  .Manhattan{
-	background-color: grey;
-  }
 
   .Bronx{
-	grid-column-start: 6;
-	grid-column-end: 27;
-	grid-row-start: 1;
-	grid-row-end: 10;
-  } 
-
-  .Bronx{
+	display: block;
+	grid-column: span 1;
+	width: fit-content;
+	height: fit-content;
 	background-color: darkgrey;
   }
 
   .Queens{
-	grid-column-start: 9;
-	grid-column-end: 26;
-	grid-row-start: 3;
-	grid-row-end: 35;
+	display: block;
+	grid-column: span 1;
+	width: fit-content;
+	height: fit-content;
+	background-color: darkgrey;
   } 
 
   .Brooklyn{
-	grid-column-start: 6;
-	grid-column-end: 27;
-	grid-row-start: 8;
-	grid-row-end: 31;
+	display: block;
+	grid-column: span 1;
+	width: fit-content;
+	height: fit-content;
+	background-color: darkgrey;
   } 
 
-.empty {
-	background-color:#e1e1e1;
-}
-
-.dark {
-	background-color:#171717;
-}
-
-.meduim {
-	background-color:#464545;
-}
-
-.light {
-	background-color:#b6b6b6;
-}
