@@ -32,25 +32,28 @@ background-color: grey;
 
 
   .Bronx{
-
 	width: fit-content;
 	height: fit-content;
 	background-color: darkgrey;
   }
 
   .Queens{
-
 	width: fit-content;
 	height: fit-content;
 	background-color: darkgrey;
   } 
 
   .Brooklyn{
-
 	width: fit-content;
 	height: fit-content;
 	background-color: darkgrey;
   } 
+
+  .StatenIsland{
+	width: fit-content;
+	height: fit-content;
+	background-color: black;
+  }
 
   .data-point {
 	visibility: hidden;

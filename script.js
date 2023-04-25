@@ -42,13 +42,19 @@ function renderItems(grid) {
     }
   
 
+    if (item.StatenIsland == false) {
+      StatenIslandelse.push(item);
+    } else if (item.StatenIsland == true) {
+     StatenIslandTrue.push(item);
+    }
+
     // “template literals”
     const itemDetails = `
 				<div class="data-container ${item.Borough}">
 					<div class="data-point" style="">
 						<h2 id="all">${item.Borough}</h2>
-            <p><em>NTA Name: ${item.NTAName}</p>
-						<p><em>Site Name: ${item.SiteName}</p>
+            <p>NTA Name: ${item.NTAName}</p>
+						<p>Site Name: ${item.SiteName}</p>
 						
 					</div>
 				</div>
