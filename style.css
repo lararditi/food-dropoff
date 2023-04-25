@@ -12,10 +12,10 @@ h1, h2 {
 
 
 
-#grid {
+.actual-grid {
 	display: grid;
-    grid-template-columns: repeat(auto-fit, minmax (15rem, 1fr));
-	grid-template-rows: repeat(auto-fit, minmax (15rem, 1fr));
+    grid-template-columns: repeat(3 , 1fr);
+	
 
 }
 
@@ -52,3 +52,10 @@ background-color: grey;
 	background-color: darkgrey;
   } 
 
+  .data-point {
+	visibility: hidden;
+  }
+
+  .data-container:hover > .data-point {
+	visibility: visible;
+  }

@@ -1,20 +1,11 @@
-// Function to render your items
-function myOverFunction() {
-  document.getElementById("all").hidden=false;
-}
-function myDownFunction() {
-  document.getElementById("all").hidden=true;
-}
+//Function to render your items
 
-function Grid (){
-  var Item = document.getElementByIdyId("all");
-  Item.style.display = "grid";
-}
 
 function renderItems(grid) {
   // The `ul` where the items will be inserted
   const gridList = document.getElementById("grid");
   const listItem = document.createElement("div");
+  listItem.classList.add('actual-grid')
   let ManhattanTrue = [];
   let ManhattanFalse = [];
   let BrooklynTrue = [];
@@ -53,8 +44,8 @@ function renderItems(grid) {
 
     // “template literals”
     const itemDetails = `
-				<div  onmouseover="myOverFunction()" onmouseout="myDownFunction()" class="data-container ${item.Borough}">
-					<div class="data-point" style=""></div>
+				<div class="data-container ${item.Borough}">
+					<div class="data-point" style="">
 						<h2 id="all">${item.Borough}</h2>
             <p><em>NTA Name: ${item.NTAName}</p>
 						<p><em>Site Name: ${item.SiteName}</p>
@@ -74,10 +65,11 @@ function renderItems(grid) {
 
     
   });
+
     const noisyDetails = document.createElement("p");
     listItem.appendChild(noisyDetails);
 
-    gridList.appendChild(listItem); // Then add the whole `li` into the `ul`
+    gridList.append(listItem); // Then add the whole `li` into the `ul`
    ;
  }
 
