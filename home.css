@@ -1,0 +1,16 @@
+.grid{
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 300px;
+    grid-template-rows: minmax(0, 1fr) 300px;
+	height: 100vh; 
+    overflow: hidden;
+}
+
+
+.grid-item{
+    grid-column: 1 / span 1;;
+    grid-row: 1 / span 1;;
+    width: fit-content;
+	height: fit-content;
+    background-color: red;
+}
