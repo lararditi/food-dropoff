@@ -55,7 +55,7 @@
    "SiteName": "NW St. Nicholas Avenue & Menahan Street"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Grasmere-Arrochar-South Beach-Dongan Hills",
    "SiteName": "South Beach"
  },
@@ -100,7 +100,7 @@
    "SiteName": "NW Grand Avenue & St. Marks Avenue"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Port Richmond",
    "SiteName": "*CLOSED FOR THE SEASON* West Brighton"
  },
@@ -140,7 +140,7 @@
    "SiteName": "Transmitter Park Drop-Off"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "West New Brighton-Silver Lake-Grymes Hill",
    "SiteName": "Olivet Heavenly Harvest"
  },
@@ -230,7 +230,7 @@
    "SiteName": "145th St Food Scrap Drop-off"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Arden Heights-Rossville",
    "SiteName": "Arden Heights"
  },
@@ -255,7 +255,7 @@
    "SiteName": "NW Parkview Avenue & Middletown Road"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "St. George-New Brighton",
    "SiteName": "St. George Greenmarket"
  },
@@ -390,7 +390,7 @@
    "SiteName": "Down to Earth Garden (formerly Children's Garden)"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights",
    "SiteName": "*CLOSED FOR THE SEASON* Manor Heights"
  },
@@ -545,7 +545,7 @@
    "SiteName": "NW Knickerbocker Avenue & Suydam Street"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "New Dorp-Midland Beach",
    "SiteName": "*CLOSED FOR THE SEASON* Midland Beach"
  },
@@ -590,7 +590,7 @@
    "SiteName": "Hudson River Park Pier 96 Boathouse at W 55 St"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Tompkinsville-Stapleton-Clifton-Fox Hills",
    "SiteName": "NW Hill Street & Tompkins Avenue"
  },
@@ -730,7 +730,7 @@
    "SiteName": "St. James Compost"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Port Richmond",
    "SiteName": "Venture House"
  },
@@ -825,7 +825,7 @@
    "SiteName": "Carroll Gardens Greenmarket"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "West New Brighton-Silver Lake-Grymes Hill",
    "SiteName": "Grymes Hill Wagner College"
  },
@@ -940,7 +940,7 @@
    "SiteName": "NW Seward Avenue & Croes Avenue"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "St. George-New Brighton",
    "SiteName": "NE Richmond Terrace & Ferry Terminal Viaduct"
  },
@@ -995,7 +995,7 @@
    "SiteName": "NE Bushwick Avenue & Jefferson Street"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights",
    "SiteName": "Grace Foundation"
  },
@@ -1050,14 +1050,14 @@
    "SiteName": "Malcolm X FSDO"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Port Richmond",
    "SiteName": "NW Innis Street & St Josephs Avenue"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "New Springville-Willowbrook-Bulls Head-Travis",
-   "SiteName": "*CLOSED FOR THE SEASON* Staten Island Mall Greenmarket"
+   "SiteName": "*CLOSED FOR THE SEASON* StatenIsland Mall Greenmarket"
  },
  {
    "Borough": "Queens",
@@ -1205,7 +1205,7 @@
    "SiteName": "NW West 141st Street & Fredrick Douglas Blvd"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "St. George-New Brighton",
    "SiteName": "SE Stuyvesant Place & Schuyler Street"
  },
@@ -1340,9 +1340,9 @@
    "SiteName": "NW Loring Place North & Hall of Fame Terrace"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Tompkinsville-Stapleton-Clifton-Fox Hills",
-   "SiteName": "Staten Island Urban Center"
+   "SiteName": "StatenIsland Urban Center"
  },
  {
    "Borough": "Brooklyn",
@@ -1520,7 +1520,7 @@
    "SiteName": "NW Central Avenue & Hancock Street"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Westerleigh-Castleton Corners",
    "SiteName": "NE Victory Blvd & Slosson Avenue"
  },
@@ -1555,7 +1555,7 @@
    "SiteName": "Corona"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Annadale-Huguenot-Prince's Bay-Woodrow",
    "SiteName": "Pleasant Plains"
  },
@@ -1720,7 +1720,7 @@
    "SiteName": "Jenny's Garden"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Snug Harbor",
    "SiteName": "Compost Demonstration Site at Snug Harbor Cultural Center & Botanical Garden"
  },
@@ -1755,7 +1755,7 @@
    "SiteName": "NW Howard Avenue & Herkimer Street"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Mariner's Harbor-Arlington-Graniteville",
    "SiteName": "SW Maple Parkway & Walloon Street"
  },
@@ -1770,7 +1770,7 @@
    "SiteName": "Astoria Pug: Newtown"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "St. George-New Brighton",
    "SiteName": "NE Layton Avenue & Jersey Street"
  },
@@ -1945,7 +1945,7 @@
    "SiteName": "Discovery Community Garden"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "West New Brighton-Silver Lake-Grymes Hill",
    "SiteName": "SW Campbell Avenue & Henderson Avenue"
  },
@@ -2060,7 +2060,7 @@
    "SiteName": "SW Vanderbilt Avenue & Dean Street"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Annadale-Huguenot-Prince's Bay-Woodrow",
    "SiteName": "Rossville"
  },
@@ -2080,7 +2080,7 @@
    "SiteName": "NE 35th Avenue & 12th Street"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Westerleigh-Castleton Corners",
    "SiteName": "NW Houston Street & Willowbrook Road"
  },
@@ -2155,7 +2155,7 @@
    "SiteName": "NE Knickerbocker Avenue & Starr Street"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "Rosebank-Shore Acres-Park Hill",
    "SiteName": "NE Vermont Avenue & Hylan Blvd"
  },
@@ -2270,7 +2270,7 @@
    "SiteName": "Kew Gardens Food Scrap Drop-off"
  },
  {
-   "Borough": "Staten Island",
+   "Borough": "StatenIsland",
    "NTAName": "St. George-New Brighton",
    "SiteName": "H.E.A.L.T.H for Youths Skyline Community Garden"
  },
