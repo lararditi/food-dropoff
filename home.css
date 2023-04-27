@@ -1,16 +1,55 @@
-.grid{
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 300px;
-    grid-template-rows: minmax(0, 1fr) 300px;
-	height: 100vh; 
-    overflow: hidden;
+.title{
+    z-index: 10;
+    font-family: 'Helvetica Neue';
+    font-size: 24px;
+    text-transform: uppercase;
 }
 
+section {
+    position: relative;
+  }
+  
+  section img {
+    position: absolute;
+  }
 
-.grid-item{
-    grid-column: 1 / span 1;;
-    grid-row: 1 / span 1;;
-    width: fit-content;
-	height: fit-content;
-    background-color: red;
-}
+
+  .top {
+    animation-name: fade;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite; 
+    animation-duration: 3s;
+    animation-direction: alternate; 
+  }
+  
+  .last {
+    animation-name: fade;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite; 
+    animation-duration: 3s;
+    animation-direction: alternate;
+  }
+
+  .final {
+    animation-name: fade;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite; 
+    animation-duration: 3s;
+    animation-direction: alternate;
+  }
+
+  @keyframes fade {
+    0% {
+      opacity: 1;
+    }
+    25% {
+      opacity: 1;
+    }
+    75% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
