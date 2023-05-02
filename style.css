@@ -104,28 +104,28 @@ background-color: #8D8C8D;
 
   .Bronx{
 	width: cover;
-	height: cover;
+	/* height: cover; */
 	background-color: #959495;
 	/* background-size: cover; */
   }
 
   .Queens{
 	width: cover;
-	height: cover;
+	/* height: cover; */
 	background-color: #959595;
 	/* background-size: cover; */
   } 
 
   .Brooklyn{
 	width: cover;
-	height: cover;
+	/* height: cover; */
 	background-color: #828182;
 	/* background-size: cover; */
   } 
 
   .StatenIsland{
 	width: cover;
-	height: cover;
+	/* height: cover; */
 	background-color: #D0CFD0;
 	/* background-size: cover; */
   }
