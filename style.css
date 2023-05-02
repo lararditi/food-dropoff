@@ -7,6 +7,24 @@ body {
 
 
 h1, h2 {
+	font-family: 'Helvetica Neue';
+	color: white;
+	font-style: bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    overflow: auto;
+	font-weight:normal;
+	text-align:center;
+}
+
+
+p {
+	font-family: 'Helvetica Neue';
+	color: white;
+	font-style: bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    overflow: auto;
 	font-weight:normal;
 	text-align:center;
 }
@@ -62,51 +80,60 @@ row-gap: 1rem;
 }
 
 .actual-grid {
-	display: grid;
-    grid-template-columns: repeat(10, 1fr);
+	/* display: grid; */
+    /* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(100px, 1fr)); */
+    /* grid-template-columns: repeat(3,33vw); */
 
 }
 
+/* .data-point{
+  height: 33vw;
+}
+.data-container{
+  aspect-ratio: 1/1;
+} */
 .Manhattan{
-	width: cover;
-	height: cover;
-background-color: rgb(60, 60, 60);
-background-size: cover;
+	/* width: cover;
+	height: cover; */
+  aspect-ratio: 1/1;
+background-color: #8D8C8D;
+/* background-size: cover; */
   } 
 
 
   .Bronx{
 	width: cover;
 	height: cover;
-	background-color: rgb(117, 117, 117);;
-	background-size: cover;
+	background-color: #959495;
+	/* background-size: cover; */
   }
 
   .Queens{
 	width: cover;
 	height: cover;
-	background-color: rgb(100, 100, 100);;
-	background-size: cover;
+	background-color: #959595;
+	/* background-size: cover; */
   } 
 
   .Brooklyn{
 	width: cover;
 	height: cover;
-	background-color: black;
-	background-size: cover;
+	background-color: #828182;
+	/* background-size: cover; */
   } 
 
   .StatenIsland{
 	width: cover;
 	height: cover;
-	background-color: rgb(189, 189, 189);
-	background-size: cover;
+	background-color: #D0CFD0;
+	/* background-size: cover; */
   }
 
-  .data-point {
+  /* .data-point {
 	visibility: hidden;
   }
 
   .data-container:hover > .data-point {
 	visibility: visible;
-  }
+  } */
