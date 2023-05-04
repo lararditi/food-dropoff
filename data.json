@@ -2,32 +2,38 @@
  {
    "Borough": "Manhattan",
    "NTAName": "Inwood",
-   "SiteName": "SW West 212th Street & 10th Avenue"
+   "SiteName": "SW West 212th Street & 10th Avenue",
+   "Image": "2.jpg"
  },
  {
    "Borough": "Brooklyn",
    "NTAName": "Park Slope",
-   "SiteName": "Old Stone House Brooklyn"
+   "SiteName": "Old Stone House Brooklyn",
+   "Image": "2.jpg"
  },
  {
    "Borough": "Bronx",
    "NTAName": "Norwood",
-   "SiteName": "NE Hull Avenue & East 207th Street"
+   "SiteName": "NE Hull Avenue & East 207th Street",
+   "Image": ""
  },
  {
    "Borough": "Manhattan",
    "NTAName": "East Harlem (South)",
-   "SiteName": "SE East 112th Street & Park Avenue"
+   "SiteName": "SE East 112th Street & Park Avenue",
+   "Image": ""
  },
  {
    "Borough": "Queens",
    "NTAName": "Astoria (Central)",
-   "SiteName": "Astoria Pug: Broadway"
+   "SiteName": "Astoria Pug: Broadway",
+   "Image": ""
  },
  {
    "Borough": "Brooklyn",
    "NTAName": "East New York (North)",
-   "SiteName": "East New York Farms: St. John Community Garden"
+   "SiteName": "East New York Farms: St. John Community Garden",
+   "Image": ""
  },
  {
    "Borough": "Brooklyn",

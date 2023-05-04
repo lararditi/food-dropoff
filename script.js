@@ -53,8 +53,8 @@ function renderItems(grid) {
 				<div class="data-container ${item.Borough}">
 					<div class="data-point" style="">
 						<h2 id="all">${item.Borough}</h2>
-            <p>NTA Name: ${item.NTAName}</p>
-						<p>Site Name: ${item.SiteName}</p>
+            <p>Site Name: ${item.SiteName}</p>
+            <img src="${item.Image}" />
 						
 					</div>
 				</div>
