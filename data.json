@@ -3,57 +3,61 @@
    "Borough": "Manhattan",
    "NTAName": "Inwood",
    "SiteName": "SW West 212th Street & 10th Avenue",
-   "Image": "2.jpg"
+   "Image": "1.png"
  },
  {
    "Borough": "Brooklyn",
    "NTAName": "Park Slope",
    "SiteName": "Old Stone House Brooklyn",
-   "Image": "2.jpg"
+   "Image": "2.png"
  },
  {
    "Borough": "Bronx",
    "NTAName": "Norwood",
    "SiteName": "NE Hull Avenue & East 207th Street",
-   "Image": ""
+   "Image": "3.png"
  },
  {
    "Borough": "Manhattan",
    "NTAName": "East Harlem (South)",
    "SiteName": "SE East 112th Street & Park Avenue",
-   "Image": ""
+   "Image": "4.png"
  },
  {
    "Borough": "Queens",
    "NTAName": "Astoria (Central)",
    "SiteName": "Astoria Pug: Broadway",
-   "Image": ""
+   "Image": "5.png"
  },
  {
    "Borough": "Brooklyn",
    "NTAName": "East New York (North)",
    "SiteName": "East New York Farms: St. John Community Garden",
-   "Image": ""
+   "Image": "6.png"
  },
  {
    "Borough": "Brooklyn",
    "NTAName": "Bedford-Stuyvesant (East)",
-   "SiteName": "NE Lewis Avenue & Green Avenue"
+   "SiteName": "NE Lewis Avenue & Green Avenue",
+   "Image": "7.png"
  },
  {
    "Borough": "Brooklyn",
    "NTAName": "Crown Heights (North)",
-   "SiteName": "SE Rochester Avenue & Park Place"
+   "SiteName": "SE Rochester Avenue & Park Place",
+   "Image": "8.png"
  },
  {
    "Borough": "Brooklyn",
    "NTAName": "Bushwick (West)",
-   "SiteName": "SW Central Avenue & Noll Street"
+   "SiteName": "SW Central Avenue & Noll Street",
+   "Image": "9.png"
  },
  {
    "Borough": "Manhattan",
    "NTAName": "Financial District-Battery Park City",
-   "SiteName": "Battery Park City Authority Rockefeller Park"
+   "SiteName": "Battery Park City Authority Rockefeller Park",
+   "Image": "10.png"
  },
  {
    "Borough": "Brooklyn",

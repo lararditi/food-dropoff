@@ -54,7 +54,7 @@ function renderItems(grid) {
 					<div class="data-point" style="">
 						<h2 id="all">${item.Borough}</h2>
             <p>Site Name: ${item.SiteName}</p>
-            <img src="${item.Image}" />
+            <img src="${item.Image}" style="width: 100%; height: auto; top: 60%; text-align:center;"  />
 						
 					</div>
 				</div>

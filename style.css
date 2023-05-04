@@ -9,7 +9,7 @@ h1, h2 {
   font-kerning: 2px;
   color: white;
   font-style: bold;
-    font-size: 24px;
+    font-size: 18px;
     text-transform: uppercase;
     overflow: auto;
   font-weight:normal;
@@ -20,12 +20,13 @@ p {
   font-kerning: 2px;
   color: white;
   font-style: bold;
-    font-size: 24px;
+    font-size: 12px;
     text-transform: uppercase;
     overflow: auto;
   font-weight:normal;
   text-align:center;
 }
+
 .header {
     height: 10%;
     width: 100%;
@@ -63,16 +64,21 @@ grid-template-rows: repeat(auto-fit, minmax(50px, 1fr));
 .sub{
   width: 90%;
 display: grid;
-padding: 1px;
+/* padding: 1px; */
 grid-template-columns: repeat(7, 1fr);
-row-gap: 1rem; 
+column-gap: 3fr;
+row-gap: 3rem; 
     font-family: 'Helvetica Neue';
     font-kerning: 2px;
     font-size: 12px;
     text-transform: uppercase;
     overflow: hidden;
     padding: 20px;
-    justify-self: start;
+    justify-self: start; 
+}
+
+.one, two, three, four, five{
+  justify-content: center;
 }
 .actual-grid {
   display: grid;
@@ -123,8 +129,4 @@ background-size: cover;
   visibility: visible;
   }
 
-
-  .Image{
-    width: fit-content;
-  }
 
